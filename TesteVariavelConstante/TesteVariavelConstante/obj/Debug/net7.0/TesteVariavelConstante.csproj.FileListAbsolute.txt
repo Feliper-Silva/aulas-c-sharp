@@ -1,0 +1,15 @@
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net7.0\TesteVariavelConstante.exe
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net7.0\TesteVariavelConstante.deps.json
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net7.0\TesteVariavelConstante.runtimeconfig.json
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net7.0\TesteVariavelConstante.dll
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net7.0\TesteVariavelConstante.pdb
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net7.0\TesteVariavelConstante.csproj.AssemblyReference.cache
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net7.0\TesteVariavelConstante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net7.0\TesteVariavelConstante.AssemblyInfoInputs.cache
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net7.0\TesteVariavelConstante.AssemblyInfo.cs
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net7.0\TesteVariavelConstante.csproj.CoreCompileInputs.cache
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net7.0\TesteVariavelConstante.dll
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net7.0\refint\TesteVariavelConstante.dll
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net7.0\TesteVariavelConstante.pdb
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net7.0\TesteVariavelConstante.genruntimeconfig.cache
+C:\Users\Felli\www\C#\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net7.0\ref\TesteVariavelConstante.dll
